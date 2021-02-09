@@ -1,0 +1,107 @@
+body{
+margin: 0px; 
+text-align: center;
+font-family: 'Sue Ellen Francisco',
+cursive;
+color: #40514E;
+line-height: 2;
+}
+.me1{
+    width: 140px;
+}
+.me2{
+    background-color: #bbe1fa;
+    position: absolute;
+    width: 80px;
+    left: 160px;
+    top: 30px;
+}
+hr{
+    color:lightgrey;
+    border: dotted 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto; 
+}
+
+.top-container{
+    background-color:#bbe1fa;
+    padding-top: 100px;
+}
+.middle-container{
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    margin-top: 20px;
+}
+.footer-link{
+    position: relative;
+    top:5px;
+    
+
+}
+h1{
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin: 0 auto 0 auto;
+    font-family: 'Stalemate',
+    cursive;
+    color:#1b262c;
+    font-size: 4.5rem;
+    line-height: 2;
+
+    }
+
+h2{
+    font-family: 'Amatic SC',
+    cursive;
+    color: #66BFBF;
+    font-size: 50px;
+}
+h3{
+    font-family: 'Amatic SC',
+    cursive;
+    font-size: x-large;
+    color: #66BFBF;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.my-photo {
+    border-radius: 50%;
+    width: 100px;
+    margin-top: 80px;
+    size: 512px;
+}
+.photography{
+
+    float: left;
+    padding-right: 30px;
+    padding-top: 30px;
+    
+
+}
+.contact-message{
+    width: 30%;
+    margin: auto;
+}
+.btn{
+
+}
+.web{
+    float: left ;
+    padding-right: 30px;
+}
+p{
+    font-size: 25px;
+    font-weight:bold;
+    line-height: 2;
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto ;
+    text-align: left;
+}
